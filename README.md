@@ -6,4 +6,13 @@ It shows the total terminated calls and failed calls per agents.
 Total answered calls per customer
 Total unanswered calls per customer
 it also shows the earliest total talking time per agent
-The aim of the data is to get know how many calls is made in a day per agent to be able estimate a total figure of how many calls is most likely to be made by an agent in their call center.
+The aim of the data is to get to know how many calls are made in a day per agent to be able to estimate a total figure of how many calls is most likely to be made by an agent in their call center.
+
+#Tools Used
+Excel
+Power BI
+
+#Key Insights
+Call volume trends over time
+Top-performing agents or teams
+Peak call times and patterns
